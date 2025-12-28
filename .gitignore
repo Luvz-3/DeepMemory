@@ -25,3 +25,9 @@ Thumbs.db
 # Database / Local Data (Optional - usually good to ignore local data in demos)
 # data/
 # assets/avatars/
+
+# 忽略所有图片资源
+assets/*.jpg
+assets/*.png
+assets/*.jpeg
+assets/avatars/*
