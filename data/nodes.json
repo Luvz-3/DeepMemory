@@ -1,0 +1,160 @@
+[
+  {
+    "id": "root_me",
+    "name": "Me",
+    "type": "person",
+    "description": "The center of the universe",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#0448c9"
+  },
+  {
+    "id": "8a69ee81-c437-4c57-9788-3192bf366725",
+    "name": "郭杰仁",
+    "type": "person",
+    "description": "位于画面左侧，穿着黑色连帽衫，双手交叉于身前，表情平静。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#e8bb24"
+  },
+  {
+    "id": "a3d95449-1763-418a-b1e4-283a18038d2f",
+    "name": "赖子皓",
+    "type": "person",
+    "description": "位于郭杰仁右侧，穿着黑色羽绒服，戴眼镜，低头看向下方。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#f10e47"
+  },
+  {
+    "id": "e08fe89d-cad9-4bee-bb22-17ae5130ca1f",
+    "name": "毛",
+    "type": "person",
+    "description": "位于画面中央，戴着黑色棒球帽，穿着深灰色毛衣和紫色短裤，手持一杯饮品。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#9b9e9e"
+  },
+  {
+    "id": "34767ec6-1f5f-4736-a60d-c0cc795fe0fd",
+    "name": "无为",
+    "type": "person",
+    "description": "位于毛的右侧，穿着黑色外套，内搭浅色衣物，表情专注。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#172e2f"
+  },
+  {
+    "id": "1a4f4db8-6b2d-4e66-8839-a866babe3d56",
+    "name": "之",
+    "type": "person",
+    "description": "位于画面右侧，穿着蓝白格子衬衫，戴眼镜，肩上背着包。",
+    "created_at": "2025-12-28",
+    "avatar_type": "image"
+  },
+  {
+    "id": "0f869d46-f230-4c3f-957d-31022d99314b",
+    "name": "Topa",
+    "type": "person",
+    "description": "位于画面最右侧，穿着白色上衣，部分身体可见。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#182be6"
+  },
+  {
+    "id": "51ec64e8-5439-4226-941c-1bb4357c2eb9",
+    "name": "古",
+    "type": "person",
+    "description": "位于图片中央的年轻男性，戴眼镜，黑色短发，穿着浅色印有卡通兔子图案的T恤，右手拿着一件灰色衣物。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#5ad623"
+  },
+  {
+    "id": "9788458d-cfb9-4565-86a0-1309a78c60c7",
+    "name": "猪",
+    "type": "person",
+    "description": "位于第二位，戴眼镜，穿深色上衣，表情自然。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#2a5427"
+  },
+  {
+    "id": "b8fdecd9-e56f-46b3-b883-5a2804669b15",
+    "name": "海",
+    "type": "person",
+    "description": "位于第三位，戴眼镜，穿黑色上衣，手持一个白色瓶子。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#af0162"
+  },
+  {
+    "id": "fe4a3249-04b1-435d-86c3-ef22856c8e36",
+    "name": "刘",
+    "type": "person",
+    "description": "位于中间位置，戴眼镜，穿蓝色上衣，抬起右手，手腕上戴着手表。",
+    "created_at": "2025-12-28",
+    "avatar_type": "image"
+  },
+  {
+    "id": "bc2eb3b8-2497-47e1-b588-4c403333b19c",
+    "name": "轩",
+    "type": "person",
+    "description": "位于“郭杰仁”下方，戴眼镜，露出牙齿微笑。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#944405"
+  },
+  {
+    "id": "fb54dd1e-1ac2-47c7-9981-6a439112af6f",
+    "name": "周",
+    "type": "person",
+    "description": "位于“轩”的左侧，短发，穿黑色上衣，表情自然。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#0e0a46"
+  },
+  {
+    "id": "705b615e-3eef-4d06-9685-9583e04dac86",
+    "name": "城",
+    "type": "person",
+    "description": "位于图片最右侧，戴眼镜，穿深蓝色上衣，靠近镜头。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#ff0000"
+  },
+  {
+    "id": "9c0b8612-e8cc-43fd-8a5e-3710884733ec",
+    "name": "蔡成易",
+    "type": "person",
+    "description": "最左边的人，戴黑色眼镜，穿着白色高领衣物，短发。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#a712ad"
+  },
+  {
+    "id": "426d458e-0a84-4e5c-b268-f4b423d7a1e5",
+    "name": "刘耀昊",
+    "type": "person",
+    "description": "最右边的人，戴透明眼镜，穿着黄色连帽衫，内搭白色T恤，短发。",
+    "created_at": "2025-12-28",
+    "avatar_type": "color",
+    "avatar_value": "#A8DADC"
+  },
+  {
+    "id": "a36db8ee-2d0b-4e13-9447-6a35f2c00383",
+    "name": "Jay",
+    "type": "person",
+    "description": "一位年轻男性，穿着深蓝色T恤，右手抬起触摸耳朵，表情专注。",
+    "created_at": "2025-12-28",
+    "avatar_type": "image"
+  },
+  {
+    "id": "7b5e0804-04c1-43f2-97ff-55f34df3a5c8",
+    "name": "林俊杰",
+    "type": "person",
+    "description": "一位戴着黑色棒球帽和圆形眼镜的年轻男性，穿着格子衬衫和灰色内搭，脖子上戴着一条带有流苏装饰的项链。他微笑着，怀里抱着一个蓝色的毛绒玩具。",
+    "created_at": "2025-12-28",
+    "avatar_type": "image"
+  }
+]

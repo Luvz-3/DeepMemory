@@ -1,0 +1,107 @@
+/* 引入更加文艺的衬线字体用于标题 */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&family=Inter:wght@300;400;600&display=swap');
+
+/* 定义飘落动画 - 模拟记忆碎片缓慢下沉 */
+@keyframes drifting {
+  from {background-position: 0 0, 0 0, 0 0, 0 0;}
+  to {background-position: 0 0, 500px 1000px, 400px 800px, 300px 600px;}
+}
+
+/* 全局背景 - 深蓝 + 动态粒子 (Phase 20 经典回归) */
+.stApp {
+    background-color: #080B1A; /* 极深的午夜蓝底色 */
+    
+    /* 使用径向渐变制造微弱的光感，避免死黑 */
+    background-image:
+        radial-gradient(ellipse at bottom, #1B2735 0%, transparent 80%),
+        /* 以下三层是模拟雪花/记忆粒子的白点 - 细腻微小 */
+        radial-gradient(rgba(255,255,255,0.1) 1px, transparent 1px),
+        radial-gradient(rgba(255,255,255,0.15) 1px, transparent 1px),
+        radial-gradient(rgba(255,255,255,0.2) 2px, transparent 2px);
+        
+    /* 设置不同层的大小和位置，制造空间层次感 */
+    background-size: 100% 100%, 550px 550px, 350px 350px, 250px 250px;
+    background-position: 0 0, 0 0, 0 0, 0 0;
+    
+    /* 应用动画：100秒缓慢循环飘落 */
+    animation: drifting 100s linear infinite;
+
+    font-family: 'Inter', sans-serif;
+    color: #B0B8C4; /* 柔和的蓝灰色文字 */
+}
+
+/* --- 关键：透明度保持 (Phase 21 保留) --- */
+/* 强制 Streamlit 容器透明，防止黑框 */
+div[data-testid="stHtml"], 
+div[data-testid="stIframe"], 
+iframe {
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+/* 针对 agraph 组件的混合模式修复 */
+iframe[title="streamlit_agraph.agraph"] {
+    mix-blend-mode: screen !important; 
+}
+
+/* --- UI 组件样式 (配套深蓝回忆) --- */
+
+/* 侧边栏 - 深色半透明 */
+section[data-testid="stSidebar"] {
+    background-color: rgba(10, 15, 30, 0.85);
+    border-right: 1px solid rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+}
+
+/* 标题 - 具有年代感的衬线体 */
+h1, h2, h3 {
+    font-family: 'Merriweather', serif !important;
+    font-weight: 300 !important;
+    color: #E2E8F0 !important; /* 月光白标题 */
+    letter-spacing: 0.5px;
+    text-shadow: 0 2px 5px rgba(0,0,0,0.5);
+}
+
+/* 卡片/容器 - 幽灵般的悬浮感 */
+div[data-testid="stExpander"], div.stContainer {
+    background: rgba(30, 41, 59, 0.4); /* 极低透明度的深蓝 */
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    backdrop-filter: blur(5px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    color: #B0B8C4;
+}
+
+/* 输入框 - 融入深空 */
+.stTextInput input, .stTextArea textarea, .stSelectbox div[data-baseweb="select"] > div {
+    background-color: rgba(15, 23, 42, 0.6) !important;
+    border: 1px solid rgba(96, 165, 250, 0.2) !important;
+    color: #E2E8F0 !important;
+}
+.stTextInput input:focus, .stTextArea textarea:focus {
+    border-color: #60A5FA !important;
+    box-shadow: 0 0 10px rgba(96, 165, 250, 0.2);
+}
+
+/* 主按钮 - 冷色调的点缀 (冰蓝色) */
+.stButton button[kind="primary"] {
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    border: none;
+    color: white;
+    font-weight: 500;
+    padding: 0.5rem 1.5rem;
+    border-radius: 4px;
+    box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+    transition: all 0.3s ease;
+}
+.stButton button[kind="primary"]:hover {
+    background: linear-gradient(135deg, #60a5fa, #2563eb);
+    box-shadow: 0 0 20px rgba(96, 165, 250, 0.6);
+}
+
+/* 隐藏顶部条 */
+header[data-testid="stHeader"] {
+    background-color: transparent;
+}
