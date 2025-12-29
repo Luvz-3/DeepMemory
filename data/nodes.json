@@ -7,45 +7,5 @@
     "created_at": "2025-12-29",
     "avatar_type": "color",
     "avatar_value": "#2C3E50"
-  },
-  {
-    "id": "3893829f-b246-4c73-ae41-ac22d5122487",
-    "name": "1",
-    "type": "person",
-    "description": "一个穿着白色短袖衬衫和黑色裙子的动漫风格人偶，金色长发扎成马尾，头戴灰色贝雷帽，坐在课桌上。",
-    "created_at": "2025-12-29",
-    "avatar_type": "image"
-  },
-  {
-    "id": "cad2703a-2084-46b7-a919-e9296a1bd28e",
-    "name": "2",
-    "type": "person",
-    "description": "一名背对镜头的男性，穿着白色衬衫，坐在教室的课桌前。",
-    "created_at": "2025-12-29",
-    "avatar_type": "image"
-  },
-  {
-    "id": "37a09699-07a9-4d27-a032-459505f0dcff",
-    "name": "3",
-    "type": "person",
-    "description": "一名坐在电脑前的男性，穿着白色衬衫，面向屏幕。",
-    "created_at": "2025-12-29",
-    "avatar_type": "image"
-  },
-  {
-    "id": "6b83fc64-5dcc-4835-840a-1f5bd62090f1",
-    "name": "4",
-    "type": "person",
-    "description": "左侧的男性，黑色短发，穿着米色高领拉链外套，表情较为严肃。",
-    "created_at": "2025-12-29",
-    "avatar_type": "image"
-  },
-  {
-    "id": "2bb1392f-b2a6-42d7-8b08-24a49c6b1111",
-    "name": "5",
-    "type": "person",
-    "description": "右侧的男性，黑色短发，戴黑色眼镜，穿着浅灰色Polo衫和灰色连帽衫，表情专注。",
-    "created_at": "2025-12-29",
-    "avatar_type": "image"
   }
 ]
