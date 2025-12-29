@@ -1,98 +1,33 @@
 [
   {
-    "id": "52157d87-b8c5-4b7f-8d2e-503a2a24c923",
-    "title": "崖口村游玩",
-    "date": "2025-12-28",
-    "content": "大家一起去崖口村游玩",
-    "journal_text": "大家一起去崖口村游玩",
+    "id": "34c386c7-8be8-4a99-aa15-a630cbb79de1",
+    "title": "2025-12-29 Memory",
+    "date": "2025-12-29",
+    "content": "",
+    "journal_text": "",
     "images": [
-      "assets\\3ec41a31-0ee0-4222-a7eb-0f31caedef62.jpg"
+      "assets\\033f5c6f-2257-4139-8e17-51e3cd3200eb.jpg"
     ],
     "related_nodes": [
-      "0f869d46-f230-4c3f-957d-31022d99314b",
+      "3893829f-b246-4c73-ae41-ac22d5122487",
+      "37a09699-07a9-4d27-a032-459505f0dcff",
       "root_me",
-      "e08fe89d-cad9-4bee-bb22-17ae5130ca1f",
-      "34767ec6-1f5f-4736-a60d-c0cc795fe0fd",
-      "8a69ee81-c437-4c57-9788-3192bf366725",
-      "1a4f4db8-6b2d-4e66-8839-a866babe3d56",
-      "a3d95449-1763-418a-b1e4-283a18038d2f"
+      "cad2703a-2084-46b7-a919-e9296a1bd28e"
     ]
   },
   {
-    "id": "8477fe43-1fa7-4bee-9ed4-c1761c6a5eb1",
-    "title": "毛古",
-    "date": "2024-10-17",
-    "content": "毛河谷",
-    "journal_text": "毛河谷",
+    "id": "cf29c588-8162-4377-ad18-1ad0b2c05770",
+    "title": "2025-12-29 Memory",
+    "date": "2025-12-29",
+    "content": "",
+    "journal_text": "",
     "images": [
-      "assets\\f6afff3f-eaf1-41ea-829b-07e0c2a3692f.jpg"
+      "assets\\178f19b2-8926-4882-8ffd-20d2c63c264c.jpg"
     ],
     "related_nodes": [
-      "51ec64e8-5439-4226-941c-1bb4357c2eb9",
-      "root_me",
-      "e08fe89d-cad9-4bee-bb22-17ae5130ca1f"
-    ]
-  },
-  {
-    "id": "2bc94525-dc43-4e68-b7ba-3bba97a494af",
-    "title": "足球社成员活动合照",
-    "date": "2024-11-30",
-    "content": "足球社成员集聚",
-    "journal_text": "足球社成员集聚",
-    "images": [
-      "assets\\c1b93ccf-aac1-4e32-8dc7-56e3fceee736.jpg"
-    ],
-    "related_nodes": [
-      "fb54dd1e-1ac2-47c7-9981-6a439112af6f",
-      "8a69ee81-c437-4c57-9788-3192bf366725",
-      "fe4a3249-04b1-435d-86c3-ef22856c8e36",
-      "bc2eb3b8-2497-47e1-b588-4c403333b19c",
-      "9788458d-cfb9-4565-86a0-1309a78c60c7",
-      "705b615e-3eef-4d06-9685-9583e04dac86",
-      "root_me",
-      "b8fdecd9-e56f-46b3-b883-5a2804669b15"
-    ]
-  },
-  {
-    "id": "b23204f7-775d-4612-a9af-1e08ae7fa985",
-    "title": "pashan",
-    "date": "2025-03-20",
-    "content": "三人爬山",
-    "journal_text": "三人爬山",
-    "images": [
-      "assets\\2b074df1-e409-4aa1-9338-5f53abe4e2ac.jpg"
-    ],
-    "related_nodes": [
-      "root_me",
-      "426d458e-0a84-4e5c-b268-f4b423d7a1e5",
-      "9c0b8612-e8cc-43fd-8a5e-3710884733ec"
-    ]
-  },
-  {
-    "id": "aaf243b0-b73c-4480-92da-8162547c75f2",
-    "title": "JAY",
-    "date": "2025-12-28",
-    "content": "JayCome",
-    "journal_text": "JayCome",
-    "images": [
-      "assets\\3a1857db-a97a-42b1-a143-fc8ef952770f.jpg"
-    ],
-    "related_nodes": [
-      "a36db8ee-2d0b-4e13-9447-6a35f2c00383",
+      "2bb1392f-b2a6-42d7-8b08-24a49c6b1111",
+      "6b83fc64-5dcc-4835-840a-1f5bd62090f1",
       "root_me"
-    ]
-  },
-  {
-    "id": "2d30ad75-c93b-4b52-89b2-6c420da36a00",
-    "title": "JJ",
-    "date": "2025-12-28",
-    "content": "JJ",
-    "journal_text": "JJ",
-    "images": [
-      "assets\\c7ccf2ad-4221-426a-a854-48b326fc999e.jpg"
-    ],
-    "related_nodes": [
-      "7b5e0804-04c1-43f2-97ff-55f34df3a5c8"
     ]
   }
 ]

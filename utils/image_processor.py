@@ -1,13 +1,7 @@
 import os
 import json
-import streamlit as st
 from dashscope import MultiModalConversation, Generation
 import dashscope
-
-# --- Configuration ---
-# Ensure API Key is available
-if "DASHSCOPE_API_KEY" in st.secrets:
-    dashscope.api_key = st.secrets["DASHSCOPE_API_KEY"]
 
 from PIL import Image
 

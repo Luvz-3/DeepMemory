@@ -1,268 +1,51 @@
 [
   {
-    "source": "8a69ee81-c437-4c57-9788-3192bf366725",
+    "source": "3893829f-b246-4c73-ae41-ac22d5122487",
     "target": "root_me",
     "weight": 1,
-    "last_interaction": "2025-12-28",
+    "last_interaction": "2025-12-29",
     "relation_type": "Friend"
   },
   {
-    "source": "a3d95449-1763-418a-b1e4-283a18038d2f",
+    "source": "cad2703a-2084-46b7-a919-e9296a1bd28e",
     "target": "root_me",
     "weight": 1,
-    "last_interaction": "2025-12-28",
+    "last_interaction": "2025-12-29",
     "relation_type": "Friend"
   },
   {
-    "source": "e08fe89d-cad9-4bee-bb22-17ae5130ca1f",
+    "source": "37a09699-07a9-4d27-a032-459505f0dcff",
     "target": "root_me",
     "weight": 1,
-    "last_interaction": "2025-12-28",
+    "last_interaction": "2025-12-29",
     "relation_type": "Friend"
   },
   {
-    "source": "34767ec6-1f5f-4736-a60d-c0cc795fe0fd",
+    "source": "37a09699-07a9-4d27-a032-459505f0dcff",
+    "target": "6b83fc64-5dcc-4835-840a-1f5bd62090f1",
+    "weight": 1,
+    "last_interaction": "2025-12-29",
+    "relation_type": "Friend"
+  },
+  {
+    "source": "2bb1392f-b2a6-42d7-8b08-24a49c6b1111",
     "target": "root_me",
     "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "师生"
-  },
-  {
-    "source": "1a4f4db8-6b2d-4e66-8839-a866babe3d56",
-    "target": "root_me",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
+    "last_interaction": "2025-12-29",
     "relation_type": "Friend"
   },
   {
-    "source": "0f869d46-f230-4c3f-957d-31022d99314b",
-    "target": "root_me",
+    "source": "2bb1392f-b2a6-42d7-8b08-24a49c6b1111",
+    "target": "cad2703a-2084-46b7-a919-e9296a1bd28e",
     "weight": 1,
-    "last_interaction": "2025-12-28",
+    "last_interaction": "2025-12-29",
     "relation_type": "Friend"
   },
   {
-    "source": "51ec64e8-5439-4226-941c-1bb4357c2eb9",
-    "target": "root_me",
+    "source": "2bb1392f-b2a6-42d7-8b08-24a49c6b1111",
+    "target": "3893829f-b246-4c73-ae41-ac22d5122487",
     "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "51ec64e8-5439-4226-941c-1bb4357c2eb9",
-    "target": "8a69ee81-c437-4c57-9788-3192bf366725",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "51ec64e8-5439-4226-941c-1bb4357c2eb9",
-    "target": "a3d95449-1763-418a-b1e4-283a18038d2f",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "51ec64e8-5439-4226-941c-1bb4357c2eb9",
-    "target": "e08fe89d-cad9-4bee-bb22-17ae5130ca1f",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "34767ec6-1f5f-4736-a60d-c0cc795fe0fd",
-    "target": "51ec64e8-5439-4226-941c-1bb4357c2eb9",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "0f869d46-f230-4c3f-957d-31022d99314b",
-    "target": "51ec64e8-5439-4226-941c-1bb4357c2eb9",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "9788458d-cfb9-4565-86a0-1309a78c60c7",
-    "target": "root_me",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "8a69ee81-c437-4c57-9788-3192bf366725",
-    "target": "9788458d-cfb9-4565-86a0-1309a78c60c7",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "b8fdecd9-e56f-46b3-b883-5a2804669b15",
-    "target": "root_me",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "8a69ee81-c437-4c57-9788-3192bf366725",
-    "target": "b8fdecd9-e56f-46b3-b883-5a2804669b15",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "fe4a3249-04b1-435d-86c3-ef22856c8e36",
-    "target": "root_me",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "1a4f4db8-6b2d-4e66-8839-a866babe3d56",
-    "target": "fe4a3249-04b1-435d-86c3-ef22856c8e36",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "bc2eb3b8-2497-47e1-b588-4c403333b19c",
-    "target": "root_me",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "8a69ee81-c437-4c57-9788-3192bf366725",
-    "target": "bc2eb3b8-2497-47e1-b588-4c403333b19c",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "a3d95449-1763-418a-b1e4-283a18038d2f",
-    "target": "bc2eb3b8-2497-47e1-b588-4c403333b19c",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "1a4f4db8-6b2d-4e66-8839-a866babe3d56",
-    "target": "bc2eb3b8-2497-47e1-b588-4c403333b19c",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "51ec64e8-5439-4226-941c-1bb4357c2eb9",
-    "target": "bc2eb3b8-2497-47e1-b588-4c403333b19c",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "fb54dd1e-1ac2-47c7-9981-6a439112af6f",
-    "target": "root_me",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "705b615e-3eef-4d06-9685-9583e04dac86",
-    "target": "root_me",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "1a4f4db8-6b2d-4e66-8839-a866babe3d56",
-    "target": "705b615e-3eef-4d06-9685-9583e04dac86",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "9c0b8612-e8cc-43fd-8a5e-3710884733ec",
-    "target": "root_me",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "51ec64e8-5439-4226-941c-1bb4357c2eb9",
-    "target": "9c0b8612-e8cc-43fd-8a5e-3710884733ec",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "8a69ee81-c437-4c57-9788-3192bf366725",
-    "target": "9c0b8612-e8cc-43fd-8a5e-3710884733ec",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "34767ec6-1f5f-4736-a60d-c0cc795fe0fd",
-    "target": "9c0b8612-e8cc-43fd-8a5e-3710884733ec",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "1a4f4db8-6b2d-4e66-8839-a866babe3d56",
-    "target": "9c0b8612-e8cc-43fd-8a5e-3710884733ec",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "426d458e-0a84-4e5c-b268-f4b423d7a1e5",
-    "target": "root_me",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "34767ec6-1f5f-4736-a60d-c0cc795fe0fd",
-    "target": "426d458e-0a84-4e5c-b268-f4b423d7a1e5",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "426d458e-0a84-4e5c-b268-f4b423d7a1e5",
-    "target": "8a69ee81-c437-4c57-9788-3192bf366725",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "426d458e-0a84-4e5c-b268-f4b423d7a1e5",
-    "target": "51ec64e8-5439-4226-941c-1bb4357c2eb9",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "1a4f4db8-6b2d-4e66-8839-a866babe3d56",
-    "target": "426d458e-0a84-4e5c-b268-f4b423d7a1e5",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "a36db8ee-2d0b-4e13-9447-6a35f2c00383",
-    "target": "root_me",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
-    "relation_type": "Friend"
-  },
-  {
-    "source": "7b5e0804-04c1-43f2-97ff-55f34df3a5c8",
-    "target": "fe4a3249-04b1-435d-86c3-ef22856c8e36",
-    "weight": 1,
-    "last_interaction": "2025-12-28",
+    "last_interaction": "2025-12-29",
     "relation_type": "Friend"
   }
 ]

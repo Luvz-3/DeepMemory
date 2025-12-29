@@ -1,8 +1,21 @@
 import streamlit as st
+import dashscope
 import os
 import uuid
 import datetime
 from streamlit_agraph import agraph
+
+# --- Secure API Key Loading ---
+try:
+    if "DASHSCOPE_API_KEY" in st.secrets:
+        dashscope.api_key = st.secrets["DASHSCOPE_API_KEY"]
+    else:
+        # 优雅的错误提示，防止直接报错崩溃
+        st.error("⚠️ 未检测到 API Key。请在 .streamlit/secrets.toml 中配置 DASHSCOPE_API_KEY。")
+        st.stop()
+except FileNotFoundError:
+    st.error("⚠️ 找不到 secrets.toml 文件。请确保已创建 .streamlit/secrets.toml。")
+    st.stop()
 
 # Local imports
 from utils import data_manager
