@@ -48,6 +48,18 @@ DeepMemory 是一个基于 Python Streamlit 和图论构建的个人记忆管理
     streamlit run app.py
     ```
 
+## ⚙️ 配置指南 (Configuration)
+
+本项目依赖阿里云 DashScope 模型。运行前请配置 API Key：
+
+1.  在项目根目录新建文件夹 `.streamlit`。
+2.  在里面新建文件 `secrets.toml`。
+3.  写入你的密钥：
+    ```toml
+    DASHSCOPE_API_KEY = "sk-你的阿里云密钥"
+    ```
+    *(注意：请勿将此文件上传到 GitHub)*
+
 ## 📝 许可证
 
 [MIT License](LICENSE)
